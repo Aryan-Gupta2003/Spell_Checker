@@ -28,8 +28,8 @@ spell_checker/
 
 ### Prerequisites
 
-    Python 3.x: Ensure Python 3.x is installed on your system.
-    Tkinter: This is required for the GUI. It comes pre-installed with most Python distributions.
+- **Python 3.x**: Ensure Python 3.x is installed on your system.
+- **Tkinter**: This is required for the GUI. It comes pre-installed with most Python distributions.
 
 ### Installation
 
@@ -41,8 +41,8 @@ spell_checker/
 
 2. **Prepare the dictionary**:
 
-   The dictionary.txt file should contain a list of correctly spelled words, one word per line.
-   You can use a publicly available word list or create your own.
+- The `**dictionary.txt**` file should contain a list of correctly spelled words, one word per line.
+- You can use a publicly available word list or create your own.
 
 ### Running the Spell Checker
 
@@ -53,17 +53,17 @@ spell_checker/
    python spell_checker.py
    ```
 
-   - Enter text to check when prompted.
-   - The spell checker will output whether the words are spelled correctly and provide suggestions for misspelled words.
+- Enter text to check when prompted.
+- The spell checker will output whether the words are spelled correctly and provide suggestions for misspelled words.
 
-2. Graphical User Interface (GUI)
+2. **Graphical User Interface (GUI)**
    To use the Tkinter-based GUI, run:
 
    ```bash
    python gui_spell_checker.py
    ```
 
-   - A window will open where you can input text, check spelling, and view results.
+- A window will open where you can input text, check spelling, and view results.
 
 ## Acknowledgements
 
